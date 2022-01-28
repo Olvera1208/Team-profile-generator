@@ -16,3 +16,4 @@ All tests must pass.
 open terminal type "node index.js" answer the prompt that follow then once your team is created your Team.html will update.
 
 # walk through Video
+https://watch.screencastify.com/v/BHkYvrxtDJtefCSOgh4i

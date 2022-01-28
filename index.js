@@ -138,9 +138,8 @@ function addEngineer() {
 
     ]).then(answers => {
       const intern = new Intern(answers.internName, answers.internId, answers.internEmail, answers.internSchool);
-      generator
       
-      Array.push(intern);
+      generatorArray.push(intern);
       createTeam();
     });
 
